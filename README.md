@@ -1,5 +1,5 @@
  # 💫 About Me:
-Iam currently student at iset sfax
+Iam currently a student at iset sfax
 
 
 # 💻 Tech Stack:
